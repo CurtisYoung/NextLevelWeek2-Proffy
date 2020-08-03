@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://res.cloudinary.com/CurtisYoung/image/upload/v1596482182/Omnistack/ykcfotyon6sacurdvht3.svg" width="300px"/>
+    <img src="https://github.com/CurtisYoung/NextLevelWeek2-Proffy/blob/master/web/src/assets/images/logo.svg" color="#333333" width="300px"/>
 </div>
 
 <br />
