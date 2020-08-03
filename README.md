@@ -13,8 +13,7 @@
    <img alt="Repository size" src="https://img.shields.io/github/repo-size/CurtisYoung/NextLevelWeek2-Proffy?color=6842C2">
   <img alt="Last commit on GitHub" src="https://img.shields.io/github/last-commit/CurtisYoung/NextLevelWeek2-Proffy?color=6842C2">
   <img alt="Made by Curtis" src="https://img.shields.io/badge/made%20by-CurtisYoung-%20?color=6842C2">
-  <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/CurtisYoung/NextLevelWeek2-Proffy?color=6842C2">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/CurtisYoung/NextLevelWeek2-Proffy?color=6842C2">
+  <img alt="Project top programing language" src="https://img.shields.io/github/languages/top/CurtisYoung/NextLevelWeek2-Proffy/master/web?color=6842C2">
 </p> 
 
 <p align="center">
