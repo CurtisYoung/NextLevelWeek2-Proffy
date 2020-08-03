@@ -1,6 +1,6 @@
-<span align="center"  width="300">
-    <img src="https://github.com/CurtisYoung/NextLevelWeek2-Proffy/blob/master/web/src/assets/images/logo.PNG"  width="300px"/>
-</span>
+<div align="center">
+    <img src="https://github.com/CurtisYoung/NextLevelWeek2-Proffy/blob/master/web/src/assets/images/logo.PNG"  width="300"/>
+</div>
 
 <br />
 
