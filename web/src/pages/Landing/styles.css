@@ -94,7 +94,9 @@ page-landing {
         display: grid;
         grid-template-rows: 350px 1fr;
         grid-template-columns: 2fr 1fr 1fr;
-        grid-template-areas: "proffy hero hero" "buttons buttons total";
+        grid-template-areas: 
+        "proffy hero hero" 
+        "buttons buttons total";
     }
 }
 
