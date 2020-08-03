@@ -1,5 +1,5 @@
-<div align="center">
-    <img src="https://github.com/CurtisYoung/NextLevelWeek2-Proffy/blob/master/web/src/assets/images/logo.svg" fill="#000000" width="300px"/>
+<div align="center" style="background_color:'#333333'" width="300px">
+    <img src="https://github.com/CurtisYoung/NextLevelWeek2-Proffy/blob/master/web/src/assets/images/logo.svg"  width="300px"/>
 </div>
 
 <br />
