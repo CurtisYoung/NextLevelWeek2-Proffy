@@ -76,7 +76,26 @@ Além disto é bom ter um editor para trabalhar com o código como _VSCode_
 ## Rodando o back end (servidor)
 
 ```bash
-...em breve
+# Clone este repositório
+$ git clone https://github.com/CurtisYoung/NextLevelWeek2-Proffy
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd NextLevelWeek2-Proffy
+
+# Vá para a pasta da aplicação Back End
+$ cd server
+
+# Instale as dependências
+$ npm install
+# Ou use Yarn se preferir
+$ yarn
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run start
+# Ou use Yarn se preferir
+$ yarn start
+
+# A aplicação será aberta na porta:3333 - acesse http://localhost:3333
 ```
 
 ### Rodando a aplicação web (Front End)
@@ -86,7 +105,7 @@ Além disto é bom ter um editor para trabalhar com o código como _VSCode_
 $ git clone https://github.com/CurtisYoung/NextLevelWeek2-Proffy
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd proffy
+$ cd NextLevelWeek2-Proffy
 
 # Vá para a pasta da aplicação Front End
 $ cd web
