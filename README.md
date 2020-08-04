@@ -38,7 +38,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
-- [Node.js](https://nodejs.org/en/) em breve...
+- [Node.js](https://nodejs.org/en/)
 - [React Native](https://facebook.github.io/react-native/) em breve...
 
 ## 💻 Projeto
