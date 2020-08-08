@@ -26,10 +26,10 @@ function TeacherList() {
                 )}
             >
                 {isFiltersVisible && (<View style={styles.searchForm}>
-                    <Text style={styles.label}>Assunto</Text>
+                    <Text style={styles.label}>Qual a matéria?</Text>
                     <TextInput
                         style={styles.input}
-                        placeholder="assunto: "
+                        placeholder="Qual a matéria? "
                         placeholderTextColor="#c1bccc"
                     />
 
